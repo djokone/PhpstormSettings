@@ -1,0 +1,74 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$SelectAll" />
+  <action id="BaseOnThisFunction">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Diagram.DeselectAll" />
+  <action id="Diagram.SelectAll" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="Switcher" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="com.chrisrm.idea.actions.accents.MTAcidLimeAccentAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="com.chrisrm.idea.actions.accents.MTStrawberryAccentAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+</keymap>
