@@ -1,0 +1,40 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/sites/Factory/NPM/Cli/Iorizon-Cli/bin/lib/cmdCreator.js" timestamp="1517789768267">
+        <mark key="[" line="3" column="9" />
+      </file>
+      <file name="E:/sites/Factory/NPM/Cli/Iorizon-Cli/bin/lib/IoLoader.js" timestamp="1517790368810" />
+      <file name="E:/sites/Factory/NPM/Cli/Iorizon-Cli/bin/iorizon" timestamp="1517850910948" />
+      <file name="E:/sites/Factory/NPM/Cli/Iorizon-Cli/bin/lib/view.js" timestamp="1517850923183">
+        <mark key="[" line="3" column="11" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
