@@ -4,16 +4,18 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isStyledDirectories" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="customSidebarHeight" value="22" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="ab47bc" />
     <option name="highlightColor" value="80cbc4" />
