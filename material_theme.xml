@@ -13,10 +13,11 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isStyledDirectories" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="customSidebarHeight" value="22" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="ab47bc" />
+    <option name="accentColor" value="f44336" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="29ea6608:174f36f391a:-7fff" />
