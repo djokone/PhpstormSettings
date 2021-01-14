@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping ext="styl" type="Sass" />
-      <removed_mapping ext="styl" type="Stylus" />
     </extensionMap>
   </component>
 </application>
