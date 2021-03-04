@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping ext="styl" type="Sass" />
     </extensionMap>
   </component>
 </application>
