@@ -20,10 +20,13 @@
     <option name="isStyledDirectories" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="useProjectFrame" value="true" />
     <option name="customSidebarHeight" value="22" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="ff4081" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="fa03a0" />
+    <option name="highlightColor" value="ff00d5" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="29ea6608:174f36f391a:-7fff" />
     <option name="version" value="5.5.0" />
   </component>
